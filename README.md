@@ -1,3 +1,3 @@
 # Puzzle-Javascript
 
-# A Simple Puzzle Javascript
+ A Simple Puzzle Javascript
